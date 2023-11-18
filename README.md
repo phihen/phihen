@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-Currently studying Computer Science
+Currently working as a software developer
